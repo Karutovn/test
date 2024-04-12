@@ -1,0 +1,8 @@
+ext {
+    extName = 'VCPVMP'
+    extClass = '.VCPVMPFactory'
+    extVersionCode = 9
+    isNsfw = true
+}
+
+apply from: "$rootDir/common.gradle"
