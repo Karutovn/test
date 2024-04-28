@@ -1,5 +1,5 @@
 ext {
-    extName = 'Tu sach xinh xinh'
+    extName = 'Tusachxinhxinh'
     extClass = '.Tusachxinhxinh'
     themePkg = 'a3manga'
     baseUrl = 'https://tusachxinh.online'
